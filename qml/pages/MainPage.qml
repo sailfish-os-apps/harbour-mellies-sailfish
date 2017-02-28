@@ -47,12 +47,12 @@ Page {
 
         // PullDownMenu and PushUpMenu must be declared in SilicaFlickable, SilicaListView or SilicaGridView
         PullDownMenu {
-            MenuItem {
+            /*MenuItem {
                 text: qsTr("Delete All Data")
                 onClicked: {
                     Storage.destroyData()
                 }
-            }
+            }*/
             MenuItem {
                 text: qsTr("Color config")
                 onClicked: {
