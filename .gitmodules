@@ -1,0 +1,3 @@
+[submodule "qml/Mellies"]
+	path = qml/Mellies
+	url = http://gitlab.unique-conception.org/bluemagma/mellies.git
